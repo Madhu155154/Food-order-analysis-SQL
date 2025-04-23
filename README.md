@@ -75,10 +75,10 @@ To replicate the setup:
 
 ### 📁 Folder Structure
 
-| File Name                                | Description                                                                 |
+| File Name                               | Description                                                                 |
 |-----------------------------------------|-----------------------------------------------------------------------------|
-| `create_orders_table.sql`               | Script to create the `orders` table structure                              |
-| `insert_orders_data.sql`                | Script to insert all 60+ order records                                      |
+| `Data_Create.Folder`                    | Script to create the `orders` table structure                               |
+| `Data_Create.Folder`                    | Script to insert all 60+ order records                                      |
 | `question_01_top_outlets_by_cuisine.sql`| Find top 3 outlets per cuisine using `ROW_NUMBER()`                         |
 | `question_02_daily_new_customers.sql`   | Count new customer acquisition daily based on first order date              |
 | `question_03_one_time_jan_customers.sql`| Customers acquired in Jan 2025 who ordered only once                        |
